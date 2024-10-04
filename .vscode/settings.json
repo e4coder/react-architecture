@@ -1,0 +1,9 @@
+{
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.autoIndent": "full",
+  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "modifications"
+}
