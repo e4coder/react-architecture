@@ -10,7 +10,7 @@
    - [Folder Structure](#folder-structure)
 
 ## Overview
-The asdnmasjkndas mdks maskdm sakdm askmd 
+This architecture is inspired from the bulletproof-react architecture. Which utilizes the following Technologies.
 
 ## Technologies Used
 
@@ -19,7 +19,6 @@ The asdnmasjkndas mdks maskdm sakdm askmd
 - **Vite**: A build tool that provides a faster and more efficient development experience for modern web projects. It features hot module replacement and is designed to work seamlessly with frameworks like React.
 - **Tailwind CSS**: A utility-first CSS framework that enables rapid UI development by providing pre-defined classes for styling elements directly in your markup.
 - **Jatoi**: A lightweight state management solution that is simpler than Zustand. It provides an intuitive API for managing application state without the complexity of larger libraries.
-- **Jatoi Atomic**: An extension of Jatoi that focuses on creating modular and reusable state management patterns. It provides tools for building scalable applications with minimal overhead.
 - **Zustand**: A small, fast, and scalable state management solution for React applications. It simplifies the management of application state, particularly in larger applications.
 - **TanStack Router**: A flexible and powerful router for React applications, designed to handle complex routing scenarios while providing features like data fetching and nested routes.
 - **TanStack Query**: A powerful data-fetching library for React that simplifies server state management. It provides hooks for fetching, caching, and updating data, enhancing the developer experience.
